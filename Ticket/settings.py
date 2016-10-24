@@ -82,7 +82,6 @@ DATABASES = {
         'USER': 'inplus',
         'PASSWORD': 'labd203',
         'HOST': '172.18.181.134',
-    }
 }
 
 
