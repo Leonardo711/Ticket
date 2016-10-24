@@ -79,9 +79,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'ticketLYL',
-        'USER': 'root',
-        'PASSWORD': '09270706',
-        'HOST': 'localhost',
+        'USER': 'inplus',
+        'PASSWORD': 'labd203',
+        'HOST': '172.18.181.134',
     }
 }
 
